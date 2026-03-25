@@ -1,0 +1,1748 @@
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+Checagem Adicionada !
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada !
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[STEP] Convertendo strings vazias para NULL
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: ascii
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[STEP] Corrigindo strings quebradas
+[STEP] Extraindo FKs
+[WARN] Nenhuma FK encontrada, usando inferência por nome
+[STEP] Ordenando tabelas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando strings
+[STEP] Corrigindo strings quebradas
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo CARGO
+[INFO] Inserindo BANCO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo PESSOA
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo FILTRO
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo RACA
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo MUCO
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo CARGO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo BANCO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo PESSOA
+[INFO] Inserindo FILTRO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo RACA
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo MUCO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Checagem Adicionada!
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Removendo quebras dentro de strings
+[INFO] Checagem Adicionada!
+[STEP] Corrigindo strings quebradas
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando strings
+[STEP] Corrigindo strings quebradas
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo BANCO
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo CARGO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo PESSOA
+[INFO] Inserindo FILTRO
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo MUCO
+[INFO] Inserindo RACA
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Corrigindo strings quebradas
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo BANCO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo CARGO
+[INFO] Inserindo PESSOA
+[INFO] Inserindo FILTRO
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo RACA
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo MUCO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Corrigindo strings quebradas (multi-linha)
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo CARGO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo BANCO
+[INFO] Inserindo PESSOA
+[INFO] Inserindo FILTRO
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo RACA
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo MUCO
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo CARGO
+[INFO] Inserindo BANCO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo PESSOA
+[INFO] Inserindo FILTRO
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo RACA
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo MUCO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Corrigindo strings quebradas (multi-linha)
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Corrigindo strings quebradas (multi-linha)
+[STEP] Limpando strings (modo seguro)
+======================================
+ INICIANDO PROCESSAMENTO SQL
+======================================
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Normalizando tipos
+[STEP] Limpando strings (modo seguro)
+[STEP] Corrigindo strings quebradas (multi-linha)
+[STEP] Gerando SQL ordenado
+[INFO] Inserindo UNIDADEMEDIDA
+[INFO] Inserindo CONTAGERENCIAL
+[INFO] Inserindo BANCO
+[INFO] Inserindo CARGO
+[INFO] Inserindo MUNICIPIO
+[INFO] Inserindo NIVEL
+[INFO] Inserindo GRAUINSTRUCAO
+[INFO] Inserindo PESSOA
+[INFO] Inserindo CLASSIFICACAO
+[INFO] Inserindo LOCALARMAZENAMENTO
+[INFO] Inserindo PRODUTO
+[INFO] Inserindo SAFRA
+[INFO] Inserindo CENTROCUSTO
+[INFO] Inserindo SETOR
+[INFO] Inserindo FILTRO
+[INFO] Inserindo GRUPOCAMPORELATORIO
+[INFO] Inserindo CAMPORELATORIO
+[INFO] Inserindo CRITERIO
+[INFO] Inserindo TIPOGRUPOANIMAL
+[INFO] Inserindo REGIMEALIMENTAR
+[INFO] Inserindo MOTIVOSECAGEM
+[INFO] Inserindo LACTACAO
+[INFO] Inserindo RACAABCZ
+[INFO] Inserindo MOTIVOBAIXA
+[INFO] Inserindo CENTRALSEMEN
+[INFO] Inserindo CATEGORIA
+[INFO] Inserindo TIPOSEMEN
+[INFO] Inserindo RACA
+[INFO] Inserindo ASSOCIACAO
+[INFO] Inserindo PELAGEMABCZ
+[INFO] Inserindo EMBRIAOCLASSIFICACAO
+[INFO] Inserindo TIPOBAIXA
+[INFO] Inserindo TIPOREPRODUCAO
+[INFO] Inserindo RESULTADOEXAMEGINECOLOGICO
+[INFO] Inserindo PROTOCOLOIATF
+[INFO] Inserindo TIPOQUALIDADECOLOSTRO
+[INFO] Inserindo MUCO
+[INFO] Inserindo ANIMALPERIODO
+[INFO] Inserindo TIPOPARTO
+[INFO] Inserindo TIPOCOLOSTRO
+[INFO] Inserindo PRINCIPIOATIVO
+[INFO] Inserindo AUXILIOPARTO
+[INFO] Inserindo TIPOFORNECIMENTOCOLOSTRO
+[INFO] Inserindo TIPOPATRIMONIO
+[INFO] Inserindo TIPODEPRECIACAO
+[INFO] Inserindo TIPOATVPATRIMONIO
+[INFO] Inserindo TIPOATIVIDADEAGRICOLA
+[INFO] Inserindo ATIVIDADE
+[INFO] Inserindo TIPOCOMUNICACAO
+[INFO] Inserindo CONDICAOCRIACAOABCZ
+[INFO] Inserindo TIPOPESO
+[INFO] Inserindo PESO
+[INFO] Inserindo REPRODUCAO
+[INFO] Inserindo GRAUCRUZAMENTO
+[INFO] Inserindo GENOTIPO
+[INFO] Inserindo ANIMAL
+[INFO] Inserindo ANIMALRACA
+[INFO] Inserindo ANIMALTAGEVENTO
+[INFO] Inserindo AUTOGUIDEETAPA
+[INFO] Inserindo AUTOGUIDEINSTRUCAO
+[INFO] Inserindo CONTACORRENTE
+[INFO] Inserindo TIPOPAGAMENTORECEBIMENTO
+[INFO] Inserindo CATEGORIAAVALIACAOFIXA
+[INFO] Inserindo TIPOCULTIVO
+[INFO] Inserindo TRATAMENTO
+[INFO] Inserindo TRATAMENTOBASE
+[INFO] Inserindo MICROORGANISMO
+[INFO] Inserindo ARQUIVOIMPORTACAO
+[INFO] Inserindo COLUNAIMPORTACAO
+[INFO] Inserindo CATEGORIARELATORIO
+[INFO] Inserindo RELATORIO
+[INFO] Inserindo COLUNARELATORIO
+[INFO] Inserindo TELA
+[INFO] Inserindo COLUNATELA
+[INFO] Inserindo CONFIGURACAO
+[INFO] Inserindo DASHBOARDCATEGORIA
+[INFO] Inserindo DASHBOARDITEM
+[INFO] Inserindo DASHBOARDTOTAL
+[INFO] Inserindo NUTRIENTE
+[INFO] Inserindo DOENCA
+[INFO] Inserindo TIPOMEDIDA
+[INFO] Inserindo EVENTO
+[INFO] Inserindo EXAME
+[INFO] Inserindo FAZENDA
+[INFO] Inserindo COMPLEMENTOMAOOBRA
+[INFO] Inserindo TIPOMAOOBRA
+[INFO] Inserindo LEITE
+[INFO] Inserindo TIPOMOVIMENTOESTOQUE
+[INFO] Inserindo TIPOMOVREBANHO
+[INFO] Inserindo FUNCAO
+[INFO] Inserindo PERMISSAO
+[INFO] Inserindo CATEGORIAFORCLI
+[INFO] Inserindo PRODUTOPRINCIPIOATIVO
+[INFO] Inserindo RELATORIOFILTRO
+[INFO] Inserindo (extra) ACABAMENTOCARCACA
+[INFO] Inserindo (extra) ACESSORAPIDO
+[INFO] Inserindo (extra) ANIMALINFO_CADASTRO
+[INFO] Inserindo (extra) ANIMALINFO_PRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUCAO
+[INFO] Inserindo (extra) ANIMALINFO_REPRODUTOR
+[INFO] Inserindo (extra) ASSOCIACAOTABELAREFERENCIA
+[INFO] Inserindo (extra) AUTOGUIDEMENSAGEMTELA
+[INFO] Inserindo (extra) CAMPOTELA
+[INFO] Inserindo (extra) CLASSEPESSOA
+[INFO] Inserindo (extra) COMPOSICAORACIAL
+[INFO] Inserindo (extra) COMPOSICOESRACIAISGIROLANDO
+[INFO] Inserindo (extra) CONFIGUPDATEUSERPHONE
+[INFO] Inserindo (extra) CORRECAO305
+[INFO] Inserindo (extra) CORRECAO305IDADEADULTA
+[INFO] Inserindo (extra) CORRECAOPRODUCAOTOTAL
+[INFO] Inserindo (extra) CULTIVOMASTITE
+[INFO] Inserindo (extra) DICIONARIO
+[INFO] Inserindo (extra) FASECRIACAO
+[INFO] Inserindo (extra) GRUPOS_CONTAGERENCIAL
+[INFO] Inserindo (extra) LOG
+[INFO] Inserindo (extra) MATURIDADE
+[INFO] Inserindo (extra) MES
+[INFO] Inserindo (extra) ROTINA_TELA_VISUALIZACAO
+[INFO] Inserindo (extra) SENSEHUBANIMAL
+[INFO] Inserindo (extra) TAXASERVICOPRENHEZINDICE
+[INFO] Inserindo (extra) TIPOMANEJOPROTOCOLOREP
+[INFO] Adicionando FK CHECK
+[FINALIZADO] Arquivo gerado com sucesso
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando SQL
+[STEP] Corrigindo strings quebradas
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando SQL
+[STEP] Ordenando INSERTs
+[INFO] LOCALARMAZENAMENTO
+[INFO] SAFRA
+[INFO] CLASSIFICACAO
+[INFO] CARGO
+[INFO] GRAUINSTRUCAO
+[INFO] BANCO
+[INFO] MUNICIPIO
+[INFO] NIVEL
+[INFO] PESSOA
+[INFO] UNIDADEMEDIDA
+[INFO] CONTAGERENCIAL
+[INFO] PRODUTO
+[INFO] CENTROCUSTO
+[INFO] SETOR
+[INFO] FILTRO
+[INFO] GRUPOCAMPORELATORIO
+[INFO] CAMPORELATORIO
+[INFO] CRITERIO
+[INFO] TIPOGRUPOANIMAL
+[INFO] REGIMEALIMENTAR
+[INFO] RACA
+[INFO] ASSOCIACAO
+[INFO] TIPOBAIXA
+[INFO] GENOTIPO
+[INFO] RACAABCZ
+[INFO] PELAGEMABCZ
+[INFO] EMBRIAOCLASSIFICACAO
+[INFO] RESULTADOEXAMEGINECOLOGICO
+[INFO] TIPOFORNECIMENTOCOLOSTRO
+[INFO] AUXILIOPARTO
+[INFO] TIPOQUALIDADECOLOSTRO
+[INFO] TIPOPESO
+[INFO] PESO
+[INFO] TIPOCOMUNICACAO
+[INFO] TIPOATVPATRIMONIO
+[INFO] TIPOPATRIMONIO
+[INFO] TIPODEPRECIACAO
+[INFO] TIPOATIVIDADEAGRICOLA
+[INFO] ATIVIDADE
+[INFO] CONDICAOCRIACAOABCZ
+[INFO] ANIMALPERIODO
+[INFO] TIPOREPRODUCAO
+[INFO] PROTOCOLOIATF
+[INFO] MUCO
+[INFO] TIPOCOLOSTRO
+[INFO] TIPOPARTO
+[INFO] PRINCIPIOATIVO
+[INFO] REPRODUCAO
+[INFO] CENTRALSEMEN
+[INFO] MOTIVOSECAGEM
+[INFO] LACTACAO
+[INFO] CATEGORIA
+[INFO] TIPOSEMEN
+[INFO] MOTIVOBAIXA
+[INFO] GRAUCRUZAMENTO
+[INFO] ANIMAL
+[INFO] ANIMALRACA
+[INFO] ANIMALTAGEVENTO
+[INFO] AUTOGUIDEETAPA
+[INFO] AUTOGUIDEINSTRUCAO
+[INFO] CONTACORRENTE
+[INFO] TIPOPAGAMENTORECEBIMENTO
+[INFO] CATEGORIAAVALIACAOFIXA
+[INFO] TIPOCULTIVO
+[INFO] TRATAMENTO
+[INFO] TRATAMENTOBASE
+[INFO] MICROORGANISMO
+[INFO] ARQUIVOIMPORTACAO
+[INFO] COLUNAIMPORTACAO
+[INFO] CATEGORIARELATORIO
+[INFO] RELATORIO
+[INFO] COLUNARELATORIO
+[INFO] TELA
+[INFO] COLUNATELA
+[INFO] CONFIGURACAO
+[INFO] DASHBOARDCATEGORIA
+[INFO] DASHBOARDITEM
+[INFO] DASHBOARDTOTAL
+[INFO] NUTRIENTE
+[INFO] DOENCA
+[INFO] TIPOMEDIDA
+[INFO] EVENTO
+[INFO] EXAME
+[INFO] FAZENDA
+[INFO] TIPOMAOOBRA
+[INFO] COMPLEMENTOMAOOBRA
+[INFO] LEITE
+[INFO] TIPOMOVIMENTOESTOQUE
+[INFO] TIPOMOVREBANHO
+[INFO] FUNCAO
+[INFO] PERMISSAO
+[INFO] CATEGORIAFORCLI
+[INFO] PRODUTOPRINCIPIOATIVO
+[INFO] RELATORIOFILTRO
+[FINALIZADO]
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando SQL
+[STEP] Ordenando INSERTs
+[INFO] ANIMALRACA
+[INFO] AUTOGUIDEINSTRUCAO
+[INFO] CATEGORIAAVALIACAOFIXA
+[INFO] COLUNAIMPORTACAO
+[INFO] COLUNARELATORIO
+[INFO] COLUNATELA
+[INFO] CONFIGURACAO
+[INFO] FAZENDA
+[INFO] PERMISSAO
+[INFO] PRODUTOPRINCIPIOATIVO
+[INFO] RELATORIOFILTRO
+[INFO] ANIMALTAGEVENTO
+[INFO] AUTOGUIDEETAPA
+[INFO] ARQUIVOIMPORTACAO
+[INFO] TELA
+[INFO] DASHBOARDTOTAL
+[INFO] NUTRIENTE
+[INFO] DOENCA
+[INFO] EVENTO
+[INFO] COMPLEMENTOMAOOBRA
+[INFO] TIPOMAOOBRA
+[INFO] LEITE
+[INFO] TIPOMOVIMENTOESTOQUE
+[INFO] TIPOMOVREBANHO
+[INFO] FUNCAO
+[INFO] CATEGORIAFORCLI
+[INFO] EXAME
+[INFO] TIPOPAGAMENTORECEBIMENTO
+[INFO] CONTACORRENTE
+[INFO] DASHBOARDITEM
+[INFO] MICROORGANISMO
+[INFO] TRATAMENTOBASE
+[INFO] TIPOMEDIDA
+[INFO] CRITERIO
+[INFO] DASHBOARDCATEGORIA
+[INFO] RELATORIO
+[INFO] TRATAMENTO
+[INFO] TIPOCULTIVO
+[INFO] CAMPORELATORIO
+[INFO] CATEGORIARELATORIO
+[INFO] FILTRO
+[INFO] GRUPOCAMPORELATORIO
+[INFO] TIPOGRUPOANIMAL
+[INFO] PRODUTO
+[INFO] SETOR
+[INFO] ANIMAL
+[INFO] ASSOCIACAO
+[INFO] CATEGORIA
+[INFO] CENTRALSEMEN
+[INFO] EMBRIAOCLASSIFICACAO
+[INFO] GRAUCRUZAMENTO
+[INFO] LACTACAO
+[INFO] MOTIVOBAIXA
+[INFO] PELAGEMABCZ
+[INFO] PESSOA
+[INFO] RACAABCZ
+[INFO] REPRODUCAO
+[INFO] TIPOBAIXA
+[INFO] TIPOSEMEN
+[INFO] GENOTIPO
+[INFO] ANIMALPERIODO
+[INFO] RACA
+[INFO] MOTIVOSECAGEM
+[INFO] MUNICIPIO
+[INFO] ATIVIDADE
+[INFO] TIPOATIVIDADEAGRICOLA
+[INFO] CENTROCUSTO
+[INFO] LOCALARMAZENAMENTO
+[INFO] SAFRA
+[INFO] TIPOCOMUNICACAO
+[INFO] CONDICAOCRIACAOABCZ
+[INFO] PESO
+[INFO] REGIMEALIMENTAR
+[INFO] BANCO
+[INFO] CONTAGERENCIAL
+[INFO] UNIDADEMEDIDA
+[INFO] TIPOATVPATRIMONIO
+[INFO] TIPODEPRECIACAO
+[INFO] TIPOPATRIMONIO
+[INFO] NIVEL
+[INFO] TIPOPESO
+[INFO] CARGO
+[INFO] GRAUINSTRUCAO
+[INFO] CLASSIFICACAO
+[INFO] PRINCIPIOATIVO
+[INFO] PROTOCOLOIATF
+[INFO] AUXILIOPARTO
+[INFO] MUCO
+[INFO] RESULTADOEXAMEGINECOLOGICO
+[INFO] TIPOCOLOSTRO
+[INFO] TIPOFORNECIMENTOCOLOSTRO
+[INFO] TIPOPARTO
+[INFO] TIPOQUALIDADECOLOSTRO
+[INFO] TIPOREPRODUCAO
+[FINALIZADO]
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando SQL
+[STEP] Ordenando INSERTs
+[INFO] ANIMALRACA
+[INFO] AUTOGUIDEINSTRUCAO
+[INFO] CATEGORIAAVALIACAOFIXA
+[INFO] COLUNAIMPORTACAO
+[INFO] COLUNARELATORIO
+[INFO] COLUNATELA
+[INFO] CONFIGURACAO
+[INFO] FAZENDA
+[INFO] PERMISSAO
+[INFO] PRODUTOPRINCIPIOATIVO
+[INFO] RELATORIOFILTRO
+[INFO] ANIMALTAGEVENTO
+[INFO] AUTOGUIDEETAPA
+[INFO] ARQUIVOIMPORTACAO
+[INFO] TELA
+[INFO] DASHBOARDTOTAL
+[INFO] NUTRIENTE
+[INFO] DOENCA
+[INFO] EVENTO
+[INFO] COMPLEMENTOMAOOBRA
+[INFO] TIPOMAOOBRA
+[INFO] LEITE
+[INFO] TIPOMOVIMENTOESTOQUE
+[INFO] TIPOMOVREBANHO
+[INFO] FUNCAO
+[INFO] CATEGORIAFORCLI
+[INFO] EXAME
+[INFO] CONTACORRENTE
+[INFO] TIPOPAGAMENTORECEBIMENTO
+[INFO] DASHBOARDITEM
+[INFO] TRATAMENTOBASE
+[INFO] MICROORGANISMO
+[INFO] TIPOMEDIDA
+[INFO] CRITERIO
+[INFO] RELATORIO
+[INFO] DASHBOARDCATEGORIA
+[INFO] TRATAMENTO
+[INFO] TIPOCULTIVO
+[INFO] CAMPORELATORIO
+[INFO] FILTRO
+[INFO] CATEGORIARELATORIO
+[INFO] TIPOGRUPOANIMAL
+[INFO] GRUPOCAMPORELATORIO
+[INFO] PRODUTO
+[INFO] SETOR
+[INFO] ANIMAL
+[INFO] ASSOCIACAO
+[INFO] CATEGORIA
+[INFO] CENTRALSEMEN
+[INFO] EMBRIAOCLASSIFICACAO
+[INFO] GRAUCRUZAMENTO
+[INFO] LACTACAO
+[INFO] MOTIVOBAIXA
+[INFO] PELAGEMABCZ
+[INFO] PESSOA
+[INFO] RACAABCZ
+[INFO] REPRODUCAO
+[INFO] TIPOBAIXA
+[INFO] TIPOSEMEN
+[INFO] GENOTIPO
+[INFO] ANIMALPERIODO
+[INFO] RACA
+[INFO] MOTIVOSECAGEM
+[INFO] MUNICIPIO
+[INFO] ATIVIDADE
+[INFO] TIPOATIVIDADEAGRICOLA
+[INFO] CENTROCUSTO
+[INFO] LOCALARMAZENAMENTO
+[INFO] SAFRA
+[INFO] TIPOCOMUNICACAO
+[INFO] CONDICAOCRIACAOABCZ
+[INFO] PESO
+[INFO] REGIMEALIMENTAR
+[INFO] BANCO
+[INFO] CONTAGERENCIAL
+[INFO] UNIDADEMEDIDA
+[INFO] TIPOATVPATRIMONIO
+[INFO] TIPODEPRECIACAO
+[INFO] TIPOPATRIMONIO
+[INFO] NIVEL
+[INFO] TIPOPESO
+[INFO] CARGO
+[INFO] GRAUINSTRUCAO
+[INFO] CLASSIFICACAO
+[INFO] PRINCIPIOATIVO
+[INFO] PROTOCOLOIATF
+[INFO] AUXILIOPARTO
+[INFO] MUCO
+[INFO] RESULTADOEXAMEGINECOLOGICO
+[INFO] TIPOCOLOSTRO
+[INFO] TIPOFORNECIMENTOCOLOSTRO
+[INFO] TIPOPARTO
+[INFO] TIPOQUALIDADECOLOSTRO
+[INFO] TIPOREPRODUCAO
+[FINALIZADO]
+========== INICIO ==========
+[STEP] Extraindo FKs...
+[INFO] Total de FKs: 469
+[INFO] Encoding detectado: utf-8
+[STEP] Normalizando tipos
+[STEP] Limpando SQL
+[STEP] Ordenando INSERTs
+[INFO] CARGO
+[INFO] NIVEL
+[INFO] GRAUINSTRUCAO
+[INFO] MUNICIPIO
+[INFO] BANCO
+[INFO] PESSOA
+[INFO] FILTRO
+[INFO] CONTAGERENCIAL
+[INFO] UNIDADEMEDIDA
+[INFO] LOCALARMAZENAMENTO
+[INFO] CLASSIFICACAO
+[INFO] PRODUTO
+[INFO] SAFRA
+[INFO] CENTROCUSTO
+[INFO] SETOR
+[INFO] GRUPOCAMPORELATORIO
+[INFO] CAMPORELATORIO
+[INFO] CRITERIO
+[INFO] TIPOGRUPOANIMAL
+[INFO] REGIMEALIMENTAR
+[INFO] RACAABCZ
+[INFO] PELAGEMABCZ
+[INFO] RACA
+[INFO] ASSOCIACAO
+[INFO] TIPOSEMEN
+[INFO] GENOTIPO
+[INFO] EMBRIAOCLASSIFICACAO
+[INFO] TIPOBAIXA
+[INFO] MUCO
+[INFO] PROTOCOLOIATF
+[INFO] TIPOCOLOSTRO
+[INFO] AUXILIOPARTO
+[INFO] TIPOQUALIDADECOLOSTRO
+[INFO] TIPOFORNECIMENTOCOLOSTRO
+[INFO] ANIMALPERIODO
+[INFO] CONDICAOCRIACAOABCZ
+[INFO] TIPOPESO
+[INFO] PESO
+[INFO] TIPODEPRECIACAO
+[INFO] TIPOATVPATRIMONIO
+[INFO] TIPOPATRIMONIO
+[INFO] TIPOATIVIDADEAGRICOLA
+[INFO] ATIVIDADE
+[INFO] TIPOCOMUNICACAO
+[INFO] PRINCIPIOATIVO
+[INFO] RESULTADOEXAMEGINECOLOGICO
+[INFO] TIPOREPRODUCAO
+[INFO] TIPOPARTO
+[INFO] REPRODUCAO
+[INFO] MOTIVOSECAGEM
+[INFO] LACTACAO
+[INFO] MOTIVOBAIXA
+[INFO] CENTRALSEMEN
+[INFO] GRAUCRUZAMENTO
+[INFO] CATEGORIA
+[INFO] ANIMAL
+[INFO] ANIMALRACA
+[INFO] ANIMALTAGEVENTO
+[INFO] AUTOGUIDEETAPA
+[INFO] AUTOGUIDEINSTRUCAO
+[INFO] CONTACORRENTE
+[INFO] TIPOPAGAMENTORECEBIMENTO
+[INFO] CATEGORIAAVALIACAOFIXA
+[INFO] TIPOCULTIVO
+[INFO] TRATAMENTO
+[INFO] TRATAMENTOBASE
+[INFO] MICROORGANISMO
+[INFO] ARQUIVOIMPORTACAO
+[INFO] COLUNAIMPORTACAO
+[INFO] CATEGORIARELATORIO
+[INFO] RELATORIO
+[INFO] COLUNARELATORIO
+[INFO] TELA
+[INFO] COLUNATELA
+[INFO] CONFIGURACAO
+[INFO] DASHBOARDCATEGORIA
+[INFO] DASHBOARDITEM
+[INFO] DASHBOARDTOTAL
+[INFO] NUTRIENTE
+[INFO] DOENCA
+[INFO] TIPOMEDIDA
+[INFO] EVENTO
+[INFO] EXAME
+[INFO] FAZENDA
+[INFO] TIPOMAOOBRA
+[INFO] COMPLEMENTOMAOOBRA
+[INFO] LEITE
+[INFO] TIPOMOVIMENTOESTOQUE
+[INFO] TIPOMOVREBANHO
+[INFO] FUNCAO
+[INFO] PERMISSAO
+[INFO] CATEGORIAFORCLI
+[INFO] PRODUTOPRINCIPIOATIVO
+[INFO] RELATORIOFILTRO
+[FINALIZADO]
